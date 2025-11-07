@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/zkari/OneDrive/Documents/cppsible
+CMAKE_SOURCE_DIR = /mnt/c/Users/zkari/Documents/cppsible
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/zkari/OneDrive/Documents/cppsible
+CMAKE_BINARY_DIR = /mnt/c/Users/zkari/Documents/cppsible
 
 # Utility rule file for ContinuousCoverage.
 
@@ -82,6 +82,6 @@ CMakeFiles/ContinuousCoverage.dir/clean:
 .PHONY : CMakeFiles/ContinuousCoverage.dir/clean
 
 CMakeFiles/ContinuousCoverage.dir/depend:
-	cd /mnt/c/Users/zkari/OneDrive/Documents/cppsible && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/zkari/OneDrive/Documents/cppsible /mnt/c/Users/zkari/OneDrive/Documents/cppsible /mnt/c/Users/zkari/OneDrive/Documents/cppsible /mnt/c/Users/zkari/OneDrive/Documents/cppsible /mnt/c/Users/zkari/OneDrive/Documents/cppsible/CMakeFiles/ContinuousCoverage.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /mnt/c/Users/zkari/Documents/cppsible && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/zkari/Documents/cppsible /mnt/c/Users/zkari/Documents/cppsible /mnt/c/Users/zkari/Documents/cppsible /mnt/c/Users/zkari/Documents/cppsible /mnt/c/Users/zkari/Documents/cppsible/CMakeFiles/ContinuousCoverage.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/ContinuousCoverage.dir/depend
 

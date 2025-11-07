@@ -4,14 +4,14 @@
 
 
 # Configuration directories and files
-SourceDirectory: /mnt/c/Users/zkari/OneDrive/Documents/cppsible
-BuildDirectory: /mnt/c/Users/zkari/OneDrive/Documents/cppsible
+SourceDirectory: /mnt/c/Users/zkari/Documents/cppsible
+BuildDirectory: /mnt/c/Users/zkari/Documents/cppsible
 
 # Where to place the cost data store
 CostDataFile: 
 
 # Site is something like machine.domain, i.e. pragmatic.crd
-Site: ZIDANE-LAPTOP
+Site: Zidane-PC
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
 BuildName: Linux-c++
@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/mnt/c/Users/zkari/OneDrive/Documents/cppsible"
+ConfigureCommand: "/usr/bin/cmake" "/mnt/c/Users/zkari/Documents/cppsible"
 MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 

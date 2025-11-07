@@ -39,3 +39,15 @@
 
 # debug information files
 *.dwo
+
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+Makefile
+*.cbp # CodeBlocks project files
+*.sln # Visual Studio solution files
+*.vcxproj # Visual Studio project files
+*.suo # Visual Studio solution user options
+.vs/ # Visual Studio cache/options directory

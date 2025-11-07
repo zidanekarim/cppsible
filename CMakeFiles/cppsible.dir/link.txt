@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/cppsible.dir/main.cpp.o -o cppsible 
+/usr/bin/c++ CMakeFiles/cppsible.dir/main.cpp.o -o cppsible  -lssh 
