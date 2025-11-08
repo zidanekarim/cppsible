@@ -51,3 +51,5 @@ Makefile
 *.vcxproj # Visual Studio project files
 *.suo # Visual Studio solution user options
 .vs/ # Visual Studio cache/options directory
+
+.env
